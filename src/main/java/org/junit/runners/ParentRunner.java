@@ -231,12 +231,16 @@ public abstract class ParentRunner<T> extends Runner implements Filterable,
 	}
 
 	private void runChildren(final RunNotifier notifier) {
-		for (final T each : getFilteredChildren())
+		List<T> filteredChildren= getFilteredChildren();
+		for (final T each : filteredChildren){
+			System.out.println(each);
  			fScheduler.schedule(new Runnable() {			
 				public void run() {
+					System.out.println("ParentRunner : "+ParentRunner.this);
 					ParentRunner.this.runChild(each, notifier);
 				}
 			});
+		}
 		fScheduler.finished();
 	}
 
@@ -303,6 +307,7 @@ public abstract class ParentRunner<T> extends Runner implements Filterable,
 				getDescription());
 		try {
 			Statement statement= classBlock(notifier);
+			System.out.println("se esta ejecutando"+this);
 			statement.evaluate();
 		} catch (AssumptionViolatedException e) {
 			testNotifier.fireTestIgnored();
@@ -352,9 +357,13 @@ public abstract class ParentRunner<T> extends Runner implements Filterable,
 			throw new InitializationError(errors);
 	}
 
-	private List<T> getFilteredChildren() {
+	protected List<T> getFilteredChildren() {
+		System.out.println(fFilteredChildren);
 		if (fFilteredChildren == null)
 			fFilteredChildren = new ArrayList<T>(getChildren());
+//		else if(){
+//			
+//		}
 		return fFilteredChildren;
 	}
 

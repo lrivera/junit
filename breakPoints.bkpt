@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakpoints>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/BlockJUnit4ClassRunner.java" type="1"/>
+<marker charStart="2807" lineNumber="75" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BlockJUnit4ClassRunner [line: 75] - runChild(FrameworkMethod, RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{BlockJUnit4ClassRunner.java[BlockJUnit4ClassRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2807"/>
+<attrib name="charEnd" value="2862"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.BlockJUnit4ClassRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/BlockJUnit4ClassRunner.java" type="1"/>
+<marker charStart="2863" lineNumber="76" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BlockJUnit4ClassRunner [line: 76] - runChild(FrameworkMethod, RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{BlockJUnit4ClassRunner.java[BlockJUnit4ClassRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2863"/>
+<attrib name="charEnd" value="2912"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.BlockJUnit4ClassRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/BlockJUnit4ClassRunner.java" type="1"/>
+<marker charStart="2966" lineNumber="78" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BlockJUnit4ClassRunner [line: 78] - runChild(FrameworkMethod, RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{BlockJUnit4ClassRunner.java[BlockJUnit4ClassRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="2966"/>
+<attrib name="charEnd" value="2969"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.BlockJUnit4ClassRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="true" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/BlockJUnit4ClassRunner.java" type="1"/>
+<marker charStart="9159" lineNumber="263" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:BlockJUnit4ClassRunner [line: 263] - methodBlock(FrameworkMethod)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{BlockJUnit4ClassRunner.java[BlockJUnit4ClassRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="9159"/>
+<attrib name="charEnd" value="9210"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="true"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.BlockJUnit4ClassRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runner/JUnitCore.java" type="1"/>
+<marker charStart="4797" lineNumber="129" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:JUnitCore [line: 129] - run(Request)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runner{JUnitCore.java[JUnitCore"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="4797"/>
+<attrib name="charEnd" value="4831"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runner.JUnitCore"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runner/JUnitCore.java" type="1"/>
+<marker charStart="5439" lineNumber="150" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:JUnitCore [line: 150] - run(Runner)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runner{JUnitCore.java[JUnitCore"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="5439"/>
+<attrib name="charEnd" value="5464"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runner.JUnitCore"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/test/java/dependencesTest/Main.java" type="1"/>
+<marker charStart="164" lineNumber="9" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:Main [line: 9] - main(String[])"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/test\/java&lt;dependencesTest{Main.java[Main"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="164"/>
+<attrib name="charEnd" value="195"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="dependencesTest.Main"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="5985" lineNumber="158" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 158] - classBlock(RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="5985"/>
+<attrib name="charEnd" value="6034"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="8643" lineNumber="234" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 234] - runChildren(RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="8643"/>
+<attrib name="charEnd" value="8666"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="10203" lineNumber="300" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 300] - getDescription()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="10203"/>
+<attrib name="charEnd" value="10249"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="10383" lineNumber="306" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 306] - run(RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="10383"/>
+<attrib name="charEnd" value="10428"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="2"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="10429" lineNumber="309" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 309] - run(RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="10429"/>
+<attrib name="charEnd" value="10474"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="11748" lineNumber="361" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner [line: 361] - getFilteredChildren()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="11748"/>
+<attrib name="charEnd" value="11780"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/main/java/org/junit/runners/ParentRunner.java" type="1"/>
+<marker charStart="8736" lineNumber="237" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:ParentRunner$3 [line: 237] - runChildren(RunNotifier)"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/main\/java&lt;org.junit.runners{ParentRunner.java[ParentRunner~runChildren~QRunNotifier;["/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="8736"/>
+<attrib name="charEnd" value="8846"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="2"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="org.junit.runners.ParentRunner"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+<breakpoint enabled="false" persistant="true" registered="true">
+<resource path="/junit/src/test/java/dependencesTest/SimpleTest.java" type="1"/>
+<marker charStart="317" lineNumber="18" type="org.eclipse.jdt.debug.javaLineBreakpointMarker">
+<attrib name="message" value="Line breakpoint:SimpleTest [line: 18] - testSimple()"/>
+<attrib name="org.eclipse.debug.core.id" value="org.eclipse.jdt.debug"/>
+<attrib name="org.eclipse.jdt.debug.ui.JAVA_ELEMENT_HANDLE_ID" value="=junit/src\/test\/java&lt;dependencesTest{SimpleTest.java[SimpleTest"/>
+<attrib name="org.eclipse.jdt.debug.core.suspendPolicy" value="2"/>
+<attrib name="charStart" value="317"/>
+<attrib name="charEnd" value="340"/>
+<attrib name="org.eclipse.jdt.debug.core.installCount" value="1"/>
+<attrib name="org.eclipse.debug.core.enabled" value="false"/>
+<attrib name="org.eclipse.jdt.debug.core.typeName" value="dependencesTest.SimpleTest"/>
+<attrib name="workingset_name" value=""/>
+<attrib name="workingset_id" value="org.eclipse.debug.ui.breakpointWorkingSet"/>
+</marker>
+</breakpoint>
+</breakpoints>

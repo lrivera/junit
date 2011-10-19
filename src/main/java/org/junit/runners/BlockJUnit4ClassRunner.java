@@ -3,7 +3,9 @@ package org.junit.runners;
 import static org.junit.internal.runners.rules.RuleFieldValidator.RULE_VALIDATOR;
 import static org.junit.internal.runners.rules.RuleFieldValidator.RULE_METHOD_VALIDATOR;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.junit.After;
 import org.junit.Before;
@@ -26,6 +28,7 @@ import org.junit.runners.model.FrameworkMethod;
 import org.junit.runners.model.InitializationError;
 import org.junit.runners.model.MultipleFailureException;
 import org.junit.runners.model.Statement;
+import org.junit.tests.listening.RunnerTest.NewExample;
 
 /**
  * Implements the JUnit 4 standard test case class model, as defined by the
@@ -52,6 +55,8 @@ public class BlockJUnit4ClassRunner extends ParentRunner<FrameworkMethod> {
 	 * @throws InitializationError
 	 *             if the test class is malformed.
 	 */
+	Map<String,FrameworkMethod> executedMethods = new HashMap<String,FrameworkMethod>();
+	
 	public BlockJUnit4ClassRunner(Class<?> klass) throws InitializationError {
 		super(klass);
 	}
@@ -63,10 +68,19 @@ public class BlockJUnit4ClassRunner extends ParentRunner<FrameworkMethod> {
 	@Override
 	protected void runChild(final FrameworkMethod method, RunNotifier notifier) {
 		Description description= describeChild(method);
+//		List<FrameworkMethod> filteredChildren= getFilteredChildren();
 		if (method.getAnnotation(Ignore.class) != null) {
 			notifier.fireTestIgnored(description);
 		} else {
 			runLeaf(methodBlock(method), description, notifier);
+			executedMethods.put(method.getName(), method);
+			System.out.println(executedMethods.size()+" ");
+//			if(filteredChildren.contains(filteredChildren.) method.getAnnotation(Test.class).dependsOnMethods()){
+//				
+//			}else{
+//				
+//			}
+			
 		}
 	}
 

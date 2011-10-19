@@ -65,4 +65,6 @@ public @interface Test {
 	 * Optionally specify <code>timeout</code> in milliseconds to cause a test method to fail if it
 	 * takes longer than that number of milliseconds.*/
 	long timeout() default 0L; 
+	
+	String dependsOnMethods () default "";
 }
